@@ -2,7 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "licType": "Vacaciones Período 2017",
+      "dias": "20"
+    },
+    {
+      "id": 2,
+      "licType": "Licencia Especial Voluntaria o Permisos",
+      "dias": "32"
     }
   ],
   "profile": {
