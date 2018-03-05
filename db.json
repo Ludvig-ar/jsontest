@@ -21,6 +21,13 @@
       "licType": "Vacaciones Período 2017",
       "dias": "5"
     }
+        {
+      "id": 4,
+      "user": "saggiocm@gmail.com",
+      "userid": 12,
+      "licType": "Vacaciones Período 2017",
+      "dias": "8"
+    }
   ],
   "profile": {
     "name": "typicode"
