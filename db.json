@@ -20,14 +20,21 @@
       "userid": 9,
       "licType": "Vacaciones Período 2017",
       "dias": "5"
-    }
-        {
+    },
+    {
       "id": 4,
       "user": "saggiocm@gmail.com",
       "userid": 12,
       "licType": "Vacaciones Período 2017",
       "dias": "8"
-    }
+    },
+    {
+      "id": 5,
+      "user": "jcallegari@tenaris.com",
+      "userid": 6,
+      "licType": "Licencia Especial Voluntaria o Permisos",
+      "dias": "10"
+    },
   ],
   "profile": {
     "name": "typicode"
