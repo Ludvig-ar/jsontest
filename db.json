@@ -6,7 +6,14 @@
       "userid": 5,
       "licType": "Vacaciones Período 2017",
       "dias": "20"
-    }
+    },
+      {
+      "id": 2,
+      "user": "lmortara@tenaris.com",
+      "userid": 5,
+      "licType": "Vacaciones Período 2017",
+      "dias": "20"
+    }  
   ],
   "profile": {
     "name": "typicode"
