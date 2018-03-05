@@ -6,20 +6,6 @@
       "userid": 5,
       "licType": "Vacaciones Período 2017",
       "dias": "20"
-    },
-    {
-      "id": 2,
-      "user": "lmortara@tenaris.com",
-      "userid": 5,
-      "licType": "Licencia Especial Voluntaria o Permisos",
-      "dias": "32"
-    },
-    {
-      "id": 3,
-      "user": "psaad@tenaris.com",
-      "userid": 9,
-      "licType": "Vacaciones Período 2017",
-      "dias": "5"
     }
   ],
   "profile": {
